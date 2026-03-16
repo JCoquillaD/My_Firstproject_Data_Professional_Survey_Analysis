@@ -30,7 +30,7 @@ This project is an operational analysis of a coffee shop chain, focusing on sale
 * **Revenue Drivers:** Determined which products contribute most to the bottom line versus those that just have high volume.
 
 ###  Dashboard Screenshots
-<img width="954" alt="Retail <img width="592" height="333" alt="Screenshot 2026-03-17 030428" src="https://github.com/user-attachments/assets/83059655-a4d0-4caa-8f5e-7410b4197d44" />
+<img width="592" height="333" alt="Screenshot 2026-03-17 030428" src="https://github.com/user-attachments/assets/83059655-a4d0-4caa-8f5e-7410b4197d44" />
 
 
 ---
